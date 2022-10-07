@@ -25,5 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1vidhyasagar&" alt="1vidhyasagar" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/vidhyasagarmyana9598" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhyasagar Linkedin" height="30" width="40" /></a>
-
+<p align="left">
+<a href="https://linkedin.com/in/vidhyasagarmyana9598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhyasagarmyana9598" height="30" width="40" /></a>
+</p>
