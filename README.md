@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React ,jS**
 
-- 💬 JavaScript Certificate [https://www.guvi.in/verify-certificate?id=3Yl42qi27wc6160d6A&course=javascript_en]**
+- 💬 JavaScript Certificate (https://www.guvi.in/verify-certificate?id=3Yl42qi27wc6160d6A&course=javascript_en)
 
 - 📫 How to reach me **vidhyasagarmyana9598@gmail.com**
 
