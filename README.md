@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vidhyasagarmyana9598@gmail.com**
 
-- 📄 Here you can go through my Resume [https://drive.google.com/drive/folders/12R3FllvDU39qsHhwnDne6E3ozDeJKEMm](https://drive.google.com/drive/folders/12R3FllvDU39qsHhwnDne6E3ozDeJKEMm)
+- 📄 Here you can go through my Resume [https://drive.google.com/file/d/1idfgDAxLorTp0Bx9emr6wuA4YWAKOf0G/view?usp=sharing](https://drive.google.com/file/d/1idfgDAxLorTp0Bx9emr6wuA4YWAKOf0G/view?usp=sharing)
 - 📄 Here you can go through my Portfolio https://vidhyasagarporfolio.netlify.app/
 
 <h3 align="left">Languages and Tools:</h3>
