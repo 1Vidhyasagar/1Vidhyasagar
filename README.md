@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Capstone projects**
 
-- 🌱 I’m currently learning **MERN tech**
+- 🌱 I’m currently working on **MERN tech** full stack projects
 
 - 💬 Ask me about **React ,jS**
 
 - 💬 JavaScript Certificate (https://www.guvi.in/verify-certificate?id=3Yl42qi27wc6160d6A&course=javascript_en)
 
-- 📫 How to reach me **vidhyasagarmyana9598@gmail.com**
+- 📫 How to reach me Mail:**vidhyasagarmyana9598@gmail.com** Call:9822074397
 
 - 📄 Here you can go through my Resume [https://drive.google.com/file/d/1idfgDAxLorTp0Bx9emr6wuA4YWAKOf0G/view?usp=sharing](https://drive.google.com/file/d/1idfgDAxLorTp0Bx9emr6wuA4YWAKOf0G/view?usp=sharing)
 - 📄 Here you can go through my Portfolio https://vidhyasagarporfolio.netlify.app/
