@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **React ,jS**
 
+- 💬 Full Stack MERN Certificate (https://www.guvi.in/certificate?id=14PJ07T71jNl0k5g40&download=true)
+
 - 💬 JavaScript Certificate (https://www.guvi.in/verify-certificate?id=3Yl42qi27wc6160d6A&course=javascript_en)
 
 - 📫 How to reach me Mail:**vidhyasagarmyana9598@gmail.com** Call:9822074397
